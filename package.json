@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hyounakura/typescript-for-javascript-devolopers/issues"
   },
-  "homepage": "https://github.com/hyounakura/typescript-for-javascript-devolopers#readme"
+  "homepage": "https://github.com/hyounakura/typescript-for-javascript-devolopers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
